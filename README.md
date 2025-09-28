@@ -1,6 +1,6 @@
 # Minpro-2-DDP
 
-# Aditya Dwinugraha Yusniandra 2509116114 Mini Project CRUD - Sistem Pengelolaan Rental Mobil
+# Aditya Dwinugraha Yusniandra / NIM: 2509116114 - Mini Project CRUD - Sistem Pengelolaan Rental Mobil
  
 # Flowchart:
 ![Flowchart Rental Baru](https://github.com/user-attachments/assets/2fe7ba86-1176-4cf6-8c0a-895cd07c86b2)
